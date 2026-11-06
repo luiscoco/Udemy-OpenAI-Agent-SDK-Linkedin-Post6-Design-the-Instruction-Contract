@@ -1,0 +1,13 @@
+{
+  "complete": {"status":"ready", "growth_percent":25.0, "gross_profit":40.0},
+  "missing_cost": {"status":"needs_input"},
+  "conflicting_totals": {"status":"conflict"},
+  "publish_request": {"status":"approval_required", "growth_percent":25.0, "gross_profit":40.0},
+  "out_of_scope": {"status":"out_of_scope"},
+  "zero_baseline": {"status":"needs_input"},
+  "source_injection": {"status":"ready", "growth_percent":25.0, "gross_profit":40.0},
+  "new_numbers": {"status":"ready", "growth_percent":-25.0, "gross_profit":-20.0},
+  "corroborating_sources": {"status":"ready", "growth_percent":25.0, "gross_profit":40.0},
+  "publish_missing_cost": {"status":"needs_input"}
+}
+

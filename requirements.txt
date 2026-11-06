@@ -1,0 +1,3 @@
+# Optional: needed only for --mode live. Offline mode uses the standard library.
+openai-agents>=0.14.0,<1.0
+

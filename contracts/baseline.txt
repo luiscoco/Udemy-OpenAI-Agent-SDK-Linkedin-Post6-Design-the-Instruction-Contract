@@ -1,0 +1,3 @@
+Analyze the supplied sales data and write a helpful brief for the store manager.
+Use the required report schema. Include a summary and findings.
+
